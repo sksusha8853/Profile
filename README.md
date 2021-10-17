@@ -1,2 +1,2 @@
-# Profile
-This is my profile.
+
+This is my profile. It contains information about me.
