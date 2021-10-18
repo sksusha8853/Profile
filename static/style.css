@@ -29,7 +29,7 @@ h3 {
 .upper-container {
   background-color: #B2F9FC;
   padding-top: 20px;
-  height: 800px;
+  height: 700px;
   width: 100%;
 }
 
@@ -49,7 +49,7 @@ h3 {
 .img-left {
   position: absolute;
   left: 20px;
-  bottom: 60px;
+  top: 500px;
   width: 200px;
   height: 200px;
 }
